@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/5055b8a78f7a4b2b918005fd5fe20852/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5055b8a78f7a4b2b918005fd5fe20852
+run_name: trusting-shrimp-718
+run_uuid: 5055b8a78f7a4b2b918005fd5fe20852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102420456
+status: 1
+tags: []
+user_id: edkim

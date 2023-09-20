@@ -109,10 +109,10 @@ def go(config: DictConfig):
 
         ## YOUR CODE HERE: call the evaluate step
         mlflow.run(
-            os.path.join(root_path, "random_forest"),
+            os.path.join(root_path, "evaluate"),
             "main",
             parameters={
-                "model_export":f"{config['random_forest_pipeline']['export_artifact']}_randomforest",
+                "model_export":f"{config['random_forest_pipeline']['export_artifact']}:latest",
                 "test_data":"data_test.csv:latest"
             }
         )

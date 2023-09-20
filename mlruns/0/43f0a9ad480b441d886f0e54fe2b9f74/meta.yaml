@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/43f0a9ad480b441d886f0e54fe2b9f74/artifacts
+end_time: 1695103331662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43f0a9ad480b441d886f0e54fe2b9f74
+run_name: brawny-colt-727
+run_uuid: 43f0a9ad480b441d886f0e54fe2b9f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103320407
+status: 3
+tags: []
+user_id: edkim

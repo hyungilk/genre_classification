@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/5478b200024c4f52b325254970bb7cb6/artifacts
+end_time: 1695103529355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5478b200024c4f52b325254970bb7cb6
+run_name: secretive-newt-419
+run_uuid: 5478b200024c4f52b325254970bb7cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103516118
+status: 3
+tags: []
+user_id: edkim

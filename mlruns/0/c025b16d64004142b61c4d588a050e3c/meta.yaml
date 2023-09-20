@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/c025b16d64004142b61c4d588a050e3c/artifacts
+end_time: 1695103425719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c025b16d64004142b61c4d588a050e3c
+run_name: monumental-snail-272
+run_uuid: c025b16d64004142b61c4d588a050e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103342922
+status: 3
+tags: []
+user_id: edkim

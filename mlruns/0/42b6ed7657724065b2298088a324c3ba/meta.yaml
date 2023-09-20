@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/42b6ed7657724065b2298088a324c3ba/artifacts
+end_time: 1695101964295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b6ed7657724065b2298088a324c3ba
+run_name: dashing-snake-352
+run_uuid: 42b6ed7657724065b2298088a324c3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695101939403
+status: 3
+tags: []
+user_id: edkim

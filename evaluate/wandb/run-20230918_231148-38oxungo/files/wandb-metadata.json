@@ -1,0 +1,39 @@
+{
+    "os": "macOS-14.0-arm64-arm-64bit",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-09-19T06:11:49.603722",
+    "startedAt": "2023-09-19T06:11:48.945962",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/hyungilk/genre_classification.git",
+        "commit": "b097d3ae62fbf5ba0fb7abfee678e8d4e30634e9"
+    },
+    "email": null,
+    "root": "/Users/edkim/Developer/mle_course/genre_classification",
+    "host": "M2-mac-mini.attlocal.net",
+    "username": "edkim",
+    "executable": "/Users/edkim/miniforge3/envs/mlflow-393ec8efd664241a91f9cbecc166b4b911aba567/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 228.27386474609375,
+        "used": 18.30771255493164
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

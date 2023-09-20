@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/be31896c85ae4429ae961e3d413b59b0/artifacts
+end_time: 1695103228981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be31896c85ae4429ae961e3d413b59b0
+run_name: adaptable-seal-486
+run_uuid: be31896c85ae4429ae961e3d413b59b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103214685
+status: 3
+tags: []
+user_id: edkim

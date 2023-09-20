@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/39990de4169e462a9eb98b59d3d70402/artifacts
+end_time: 1695102958396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39990de4169e462a9eb98b59d3d70402
+run_name: painted-stoat-971
+run_uuid: 39990de4169e462a9eb98b59d3d70402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102905579
+status: 3
+tags: []
+user_id: edkim

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/7fde58d441f148eba2ee164521bc2cf5/artifacts
+end_time: 1695103552246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fde58d441f148eba2ee164521bc2cf5
+run_name: traveling-bee-373
+run_uuid: 7fde58d441f148eba2ee164521bc2cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103541565
+status: 3
+tags: []
+user_id: edkim

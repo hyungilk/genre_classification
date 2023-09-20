@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/edc4125c36ea4595aa3c0d08c61b948e/artifacts
+end_time: 1695102813187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edc4125c36ea4595aa3c0d08c61b948e
+run_name: inquisitive-foal-701
+run_uuid: edc4125c36ea4595aa3c0d08c61b948e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102802465
+status: 3
+tags: []
+user_id: edkim

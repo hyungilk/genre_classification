@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/2d0ae4df184a4742b1e87e14758a3c80/artifacts
+end_time: 1695102420442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d0ae4df184a4742b1e87e14758a3c80
+run_name: trusting-hound-97
+run_uuid: 2d0ae4df184a4742b1e87e14758a3c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102395430
+status: 3
+tags: []
+user_id: edkim

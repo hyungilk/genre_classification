@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/e7ab7d561c4145e7a60a5e9d28cd9463/artifacts
+end_time: 1695103253218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ab7d561c4145e7a60a5e9d28cd9463
+run_name: shivering-fish-692
+run_uuid: e7ab7d561c4145e7a60a5e9d28cd9463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103240742
+status: 3
+tags: []
+user_id: edkim

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/09bdcadc4e5c4d199338dd8df7e4d6cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09bdcadc4e5c4d199338dd8df7e4d6cf
+run_name: legendary-fish-927
+run_uuid: 09bdcadc4e5c4d199338dd8df7e4d6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102312997
+status: 1
+tags: []
+user_id: edkim

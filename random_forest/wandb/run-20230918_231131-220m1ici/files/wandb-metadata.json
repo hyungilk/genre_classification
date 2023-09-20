@@ -1,0 +1,35 @@
+{
+    "os": "macOS-14.0-arm64-arm-64bit",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-09-19T06:11:32.239172",
+    "startedAt": "2023-09-19T06:11:31.439237",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/edkim/Developer/mle_course/genre_classification/outputs/2023-09-18/23-10-43/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/hyungilk/genre_classification.git",
+        "commit": "b097d3ae62fbf5ba0fb7abfee678e8d4e30634e9"
+    },
+    "email": null,
+    "root": "/Users/edkim/Developer/mle_course/genre_classification",
+    "host": "M2-mac-mini.attlocal.net",
+    "username": "edkim",
+    "executable": "/Users/edkim/miniforge3/envs/mlflow-4b8facce4618fb5d15fd3dc5692eaafad8b8c191/bin/python"
+}

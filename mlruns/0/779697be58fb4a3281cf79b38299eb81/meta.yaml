@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/779697be58fb4a3281cf79b38299eb81/artifacts
+end_time: 1695103240725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 779697be58fb4a3281cf79b38299eb81
+run_name: sneaky-ox-503
+run_uuid: 779697be58fb4a3281cf79b38299eb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103229001
+status: 3
+tags: []
+user_id: edkim

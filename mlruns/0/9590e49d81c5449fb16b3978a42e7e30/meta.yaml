@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/9590e49d81c5449fb16b3978a42e7e30/artifacts
+end_time: 1695103320388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9590e49d81c5449fb16b3978a42e7e30
+run_name: painted-skink-87
+run_uuid: 9590e49d81c5449fb16b3978a42e7e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103309534
+status: 3
+tags: []
+user_id: edkim

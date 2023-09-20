@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/5aaa7b02f1e14b5fb3bb4ece155304b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5aaa7b02f1e14b5fb3bb4ece155304b1
+run_name: puzzled-vole-530
+run_uuid: 5aaa7b02f1e14b5fb3bb4ece155304b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103568196
+status: 1
+tags: []
+user_id: edkim

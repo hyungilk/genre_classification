@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/fb4d4f6c00094621894cfad83da95fa8/artifacts
+end_time: 1695103664721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4d4f6c00094621894cfad83da95fa8
+run_name: unruly-loon-298
+run_uuid: fb4d4f6c00094621894cfad83da95fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103653756
+status: 3
+tags: []
+user_id: edkim

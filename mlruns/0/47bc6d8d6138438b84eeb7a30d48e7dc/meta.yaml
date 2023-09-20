@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/47bc6d8d6138438b84eeb7a30d48e7dc/artifacts
+end_time: 1695103781461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47bc6d8d6138438b84eeb7a30d48e7dc
+run_name: fun-worm-799
+run_uuid: 47bc6d8d6138438b84eeb7a30d48e7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103651471
+status: 4
+tags: []
+user_id: edkim

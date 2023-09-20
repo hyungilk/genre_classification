@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/0d577bae68814f8ba8458ab125c23d53/artifacts
+end_time: 1695102905558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d577bae68814f8ba8458ab125c23d53
+run_name: bouncy-deer-397
+run_uuid: 0d577bae68814f8ba8458ab125c23d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695102860920
+status: 3
+tags: []
+user_id: edkim

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/09d4c9c9d12340fa971863c475b1b7f4/artifacts
+end_time: 1695103877466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09d4c9c9d12340fa971863c475b1b7f4
+run_name: enchanting-snake-899
+run_uuid: 09d4c9c9d12340fa971863c475b1b7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103865589
+status: 3
+tags: []
+user_id: edkim

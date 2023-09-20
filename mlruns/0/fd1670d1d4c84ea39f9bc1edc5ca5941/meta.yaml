@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/fd1670d1d4c84ea39f9bc1edc5ca5941/artifacts
+end_time: 1695103855243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd1670d1d4c84ea39f9bc1edc5ca5941
+run_name: orderly-midge-206
+run_uuid: fd1670d1d4c84ea39f9bc1edc5ca5941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103844013
+status: 3
+tags: []
+user_id: edkim

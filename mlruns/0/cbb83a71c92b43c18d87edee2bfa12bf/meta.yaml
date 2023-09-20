@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/cbb83a71c92b43c18d87edee2bfa12bf/artifacts
+end_time: 1695103920039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbb83a71c92b43c18d87edee2bfa12bf
+run_name: enchanting-snipe-789
+run_uuid: cbb83a71c92b43c18d87edee2bfa12bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103906011
+status: 3
+tags: []
+user_id: edkim

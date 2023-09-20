@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/084ecd5765944db7936e4bbed67be71b/artifacts
+end_time: 1695103781245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 084ecd5765944db7936e4bbed67be71b
+run_name: nimble-grouse-2
+run_uuid: 084ecd5765944db7936e4bbed67be71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103712729
+status: 4
+tags: []
+user_id: edkim

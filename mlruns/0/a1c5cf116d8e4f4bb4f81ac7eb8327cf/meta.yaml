@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/a1c5cf116d8e4f4bb4f81ac7eb8327cf/artifacts
+end_time: 1695103209656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1c5cf116d8e4f4bb4f81ac7eb8327cf
+run_name: crawling-conch-342
+run_uuid: a1c5cf116d8e4f4bb4f81ac7eb8327cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103117762
+status: 4
+tags: []
+user_id: edkim

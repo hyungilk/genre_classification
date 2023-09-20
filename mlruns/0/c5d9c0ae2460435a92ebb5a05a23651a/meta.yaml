@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/c5d9c0ae2460435a92ebb5a05a23651a/artifacts
+end_time: 1695103425960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5d9c0ae2460435a92ebb5a05a23651a
+run_name: amazing-bee-878
+run_uuid: c5d9c0ae2460435a92ebb5a05a23651a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103297600
+status: 4
+tags: []
+user_id: edkim

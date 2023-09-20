@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edkim/Developer/mle_course/genre_classification/mlruns/0/d7ec324a34b34952bb01e3480672535e/artifacts
+end_time: 1695103675017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7ec324a34b34952bb01e3480672535e
+run_name: ambitious-hound-457
+run_uuid: d7ec324a34b34952bb01e3480672535e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695103664736
+status: 3
+tags: []
+user_id: edkim
